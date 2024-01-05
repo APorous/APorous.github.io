@@ -18,7 +18,7 @@ theme = "hugo-hero-theme"
     desktop = "images/APorous.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "APorous Inc."
 
   [params.homepage_meta_tags]
     meta_description = "APorous main website stuff here"

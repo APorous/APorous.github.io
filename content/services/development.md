@@ -11,10 +11,8 @@ heroHeading: 'Development'
 weight: 1
 ---
 
-We develop many products.
+The battery industry has gone through rapid changes in the past twenty years. We support product developments in the areas of:
 
-Food packaging
-
-Solid state battery separators
-
-Filters of controllable pore sizes
+- Separators (lithium, lead-acid, alkaline, ceramic coating)
+- Food packaging
+- Membranes and filters

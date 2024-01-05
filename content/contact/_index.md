@@ -7,4 +7,10 @@ heroHeading: 'Contact'
 weight: 4
 ---
 
-Contact us here:
+Company Address
+
+Company Email Contact
+
+Phone Number
+
+Working Hours
