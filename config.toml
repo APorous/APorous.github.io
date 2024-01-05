@@ -1,4 +1,4 @@
-baseURL = "https://www.aporous.com/"
+baseURL = "https://www.aporous.org/"
 languageCode = "en-us"
 title = "APorous Inc."
 theme = "hugo-hero-theme"
