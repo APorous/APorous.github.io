@@ -2,6 +2,6 @@
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
 heroHeading: 'APorous Inc.'
-heroSubHeading: 'A membrane technologies company.'
-heroBackground: 'APorous/APorous.png'
+heroSubHeading: 'A Membrane Technologies Company'
+heroBackground: 'APorous/cover_page.JPG'
 ---

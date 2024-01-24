@@ -1,10 +1,11 @@
 ---
-title: 'About Our Company'
-weight: 0
-background: ''
-button: 'Our Company'
-buttonLink: 'company'
-background: 'APorous/pore_technology.png'
+# title: 'About Our Company'
+# weight: 0
+# background: ''
+# button: 'Our Company'
+# buttonLink: 'company'
+align: left
+# background: 'APorous/pore_technology.png'
 ---
 
-something brief about company here
+![equipment](/APorous/equipment.JPG)
