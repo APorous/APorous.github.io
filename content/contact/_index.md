@@ -7,10 +7,12 @@ heroHeading: 'Contact'
 weight: 4
 ---
 
-Company Address
+### APorous Inc.
 
-Company Email Contact
+### 19 Westech Drive
 
-Phone Number
+### Tyngsboro, MA 01879, USA
 
-Working Hours
+### sales.aporous@aporous.com
+
+### Tel. 978-226-5114    
